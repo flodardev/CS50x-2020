@@ -1,0 +1,51 @@
+#kl{
+        position: relative;
+        text-align: center;
+        color: FloralWhite;
+        padding-left: 0px;
+        padding-right: 0px;
+      }
+      #hello{
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 4vw;
+      }
+      #cs50xrll{
+        margin-top: 100px;
+      }
+      .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        color: white;
+        text-align: center;
+      }
+      #division
+      {
+        text-align: center;
+        font-size: 24px;
+        color: black;
+        margin-top: 110px;
+      }
+      #paragraph
+      {
+        margin-top: 100px;
+        text-align: center;
+      }
+      #lastparagraph
+      {
+        margin-top: 95px;
+        margin-bottom: 100px;
+        text-align: center;
+      }
+      #map{
+        border: 5px solid black;
+      }
+      #snapwidget{
+        margin-top: 100px;
+        margin-bottom: 15px;
+      }
